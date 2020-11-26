@@ -10,7 +10,7 @@ This is a Datapack of all of the custom recipes I've made for my minecraft serve
 
 - Logs to Chests
 
-  Make a chest out of logs to make 8 chests at once
+  Make a chest out of logs to make 4 chests at once
 
 - Slabs to Blocks
 
