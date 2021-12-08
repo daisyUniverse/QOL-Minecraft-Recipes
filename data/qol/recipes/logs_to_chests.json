@@ -7,11 +7,11 @@
   ],
   "key": {
     "#": {
-      "tag": "minecraft:glass_pane"
+      "tag": "minecraft:logs"
     }
   },
   "result": {
-    "item": "minecraft:glass",
-    "count": 3
+    "item": "minecraft:chest",
+    "count": 4
   }
 }
