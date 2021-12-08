@@ -4,16 +4,42 @@ This is a Datapack of all of the custom recipes I've made for my minecraft serve
 
 ### Main ones
 
-- Logs to sticks
+- Logs to Sticks
 
   put two logs in a stack and they will make 16 sticks, skipping having to make planks first
+
+  
 
 - Logs to Chests
 
   Make a chest out of logs to make 4 chests at once
 
+  
+
+- Logs to Torches
+
+  Make a torch out of a log and a coal block to make 32 torches
+
+  
+
 - Slabs to Blocks
 
   Allows you to convert any two slabs back into a full block, just stack them.
+
+  
+
+- Stairs to Blocks
+
+  Allows you to convert Stairs back into full blocks
+
+  
+
+- Glass Panes to Glass Blocks
+
+  Return to monke
+
+  
+
+  
 
 This is made for 1.16+, and I plan on adding more as I come up with them
