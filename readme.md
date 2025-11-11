@@ -20,6 +20,9 @@ This is a Datapack of all of the custom recipes I've made for my minecraft serve
 
   Make a torch out of a log and a coal block to make 32 torches
 
+
+- Veganish Books
+  Make a book with Rotten Flesh instead of Leather so you don't have to kill cows
   
 
 - Slabs to Blocks
