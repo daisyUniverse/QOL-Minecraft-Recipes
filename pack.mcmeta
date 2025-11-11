@@ -1,6 +1,8 @@
 {
     "pack": {
-        "pack_format": 1,
-        "description": "Some non-cheaty Quality of Life recipes for Minecraft"
+        "pack_format": 81,
+        "description": "Some non-cheaty Quality of Life recipes for Minecraft",
+        "min_format": 81,
+        "max_format": 81
     }
-} 
+}
