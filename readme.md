@@ -42,8 +42,3 @@ This is a Datapack of all of the custom recipes I've made for my minecraft serve
 
   Return to monke
 
-  
-
-  
-
-This is made for 1.16+, and I plan on adding more as I come up with them
